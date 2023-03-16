@@ -1,0 +1,3 @@
+#compdef -P *-objdump
+
+_objdump

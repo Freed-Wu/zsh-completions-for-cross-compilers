@@ -1,0 +1,3 @@
+#compdef -P *-gcc -P *-g++ -P *-c++ -P *-clang -P *-clang++
+
+_gcc
